@@ -1,0 +1,74 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+html {
+  height: 100%;
+}
+body {
+  margin: 5 5;
+  height: 100%;
+  background-color:rgb(153,202,130);
+}
+header {
+  padding: 5px;
+  display: block;
+  width: 100%;
+  background-color:rgb(233,228,150);
+}
+h1 {
+  color:rgb(107,101,2);
+}
+nav {
+  line-height:;
+  background-color:rgb(204,222,143);
+  display: inline-block;
+  vertical-align: top;
+  height:100%;
+}
+nav ul {
+  list-style-type: none;
+}
+
+li {
+  background-image:url("http://i.imgur.com/iLIx47n.png");
+  width: 270px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+.topli {
+  background-image:url("http://i.imgur.com/wcZI698.png");
+}
+.bottomli {
+  background-image:url("http://i.imgur.com/m7SI1vI.png");
+}
+li a {
+  display: flex;
+  vertical-align: middle;
+  color:rgb(79,102,2);
+}
+section {
+  width: 516px;
+  display: inline-block;
+}
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+aside ul {
+  list-style-type: none;
+}
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
+p {
+  color:rgb(31,93,2);
+}
